@@ -1,7 +1,7 @@
 {
   "url": "https://trillionwars.pro/",
   "name": "Trillionwars.pro",
-  "iconUrl": "https://raw.githubusercontent.com/utestmx123/manifest/refs/heads/main/favicon.ico",
+  "iconUrl": "https://raw.githubusercontent.com/utestmx123/manifest/refs/heads/main/favicon-32x32.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
   "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
